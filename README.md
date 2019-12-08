@@ -136,4 +136,5 @@ To quit Vim after you’ve finished, hit :q. Since Vim is your friend, it won’
 
 If you really want to quit, go ahead and use :q! to leave without being nagged.You can also exit Vim using ZZ, which will save and quit the file. 
 
+## Closing Words
 Again, all this might sound a bit complex, but it really isn’t. It’s a bunch of smaller things to learn that when you add them all up, make for a very powerful package.
