@@ -1,6 +1,6 @@
 # Vim 101: A Beginner’s Guide to Vim
 
-Ever wanted to learn Vim, but weren’t sure how to start? No problem. We have you covered! This will be the first of a four-part (possibly longer) series covering how to use Vim and where to start using the world’s best text editor.
+Ever wanted to learn Vim, but weren’t sure how to start? No problem. I have you covered!
 
 ## What’s Vim, and Why Do I Want It?
 
